@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: http://mutantmahe.sh/
 - ⚡ Fun fact: Self Regulate myself with Meditation.
 
+[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=msankhala)](https://github.com/anuraghazra/github-readme-stats)
+
