@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ☕️ Buy me a Coffe at: https://www.buymeacoffee.com/MutantMahesh
 
 [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=msankhala&count_private=true&&show_icons=true&theme=radical)](https://github.com/msankhala)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msankhala&repo=tribute_cards&show_owner)](https://github.com/msankhala/tribute_cards)
+
+[![Tribute Cards](https://github-readme-stats.vercel.app/api/pin/?username=msankhala&repo=tribute_cards&show_owner)](https://github.com/msankhala/tribute_cards)
 
 
