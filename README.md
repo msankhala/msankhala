@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 [![Tribute Cards](https://github-readme-stats.vercel.app/api/pin/?username=msankhala&repo=tribute_cards&show_owner=true)](https://github.com/msankhala/tribute_cards)
 [![Donation](https://github-readme-stats.vercel.app/api/pin/?username=msankhala&repo=donation&show_owner=true)](https://github.com/msankhala/donation)
 [![Organization](https://github-readme-stats.vercel.app/api/pin/?username=msankhala&repo=organization&show_owner=true)](https://github.com/msankhala/organization)
+[![Smart Content Smart IP](https://github-readme-stats.vercel.app/api/pin/?username=msankhala&repo=smart_content_smart_ip&show_owner=true)](https://github.com/msankhala/smart_content_smart_ip)
 
 
