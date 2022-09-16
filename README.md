@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Self Regulate myself with Meditation.
 - ☕️ Buy me a Coffe at: https://www.buymeacoffee.com/MutantMahesh
 
+<a href="https://app.daily.dev/MutantMahesh"><img src="https://api.daily.dev/devcards/42543ea89ef441609368e9eef1f3ef61.png?r=n60" width="400" alt="Mahesh Sankhala's Dev Card"/></a>
+
 [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=msankhala&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/msankhala)
 
 [![Tribute Cards](https://github-readme-stats.vercel.app/api/pin/?username=msankhala&repo=tribute_cards&show_owner=true)](https://github.com/msankhala/tribute_cards)
